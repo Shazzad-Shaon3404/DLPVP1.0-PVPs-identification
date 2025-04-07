@@ -56,8 +56,8 @@ This study proposes a robust approach for developing a DLPVP model. The approach
 
 
 ## Workflow Diagram
+![Image Description](https://drive.google.com/uc?id=1j4cqn3kBmxsiHhNTD6xVC9CxVewdD8ks)
 
-![Workflow](https://drive.google.com/uc?id=16QdqaXOfEvVjoij08vpEWDOb-rnO7u3A)
 
 **For more information please see the notebook**
 
