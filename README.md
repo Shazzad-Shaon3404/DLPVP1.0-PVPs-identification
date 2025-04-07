@@ -69,7 +69,7 @@ This study proposes a robust approach for developing a DLPVP model. The approach
 ![SOTA](https://drive.google.com/file/d/1yeMSqZ3G5lOGIbzZbyQAzVBi0LnxgU82/view?usp=drive_link)
 
 
-
+![Workflow Diagram](https://drive.google.com/uc?export=view&id=1KvvGdqf4weDc5GH-IwFkCeuvXfLhw6nr)
 
 ## <span style="font-size:16px;">**Requirements:**</span>
 
