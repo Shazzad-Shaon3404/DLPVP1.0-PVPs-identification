@@ -57,19 +57,22 @@ This study proposes a robust approach for developing a DLPVP model. The approach
 
 ## Workflow Diagram
 
-![Workflow Diagram](https://drive.google.com/file/d/1j4cqn3kBmxsiHhNTD6xVC9CxVewdD8ks/view?usp=drive_link)
+![Workflow](https://drive.google.com/uc?id=16QdqaXOfEvVjoij08vpEWDOb-rnO7u3A)
+
 **For more information please see the notebook**
 
 ## Proposed Architecture of the study
-![model](https://drive.google.com/file/d/16QdqaXOfEvVjoij08vpEWDOb-rnO7u3A/view?usp=drive_link)
+![MODEL](https://drive.google.com/uc?id=16QdqaXOfEvVjoij08vpEWDOb-rnO7u3A)
 
 
 
-## Our DHUpredET model achieved significant improvements over previous approaches....
-![SOTA](https://drive.google.com/file/d/1yeMSqZ3G5lOGIbzZbyQAzVBi0LnxgU82/view?usp=drive_link)
+
+## Our DLPVP model achieved significant improvements over previous approaches....
+![SOTA](https://drive.google.com/uc?id=1yeMSqZ3G5lOGIbzZbyQAzVBi0LnxgU82)
 
 
-![Workflow Diagram](https://drive.google.com/uc?export=view&id=1KvvGdqf4weDc5GH-IwFkCeuvXfLhw6nr)
+
+
 
 ## <span style="font-size:16px;">**Requirements:**</span>
 
